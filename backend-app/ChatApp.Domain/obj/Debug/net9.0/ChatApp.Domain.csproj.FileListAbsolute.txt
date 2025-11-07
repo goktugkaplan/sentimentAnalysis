@@ -1,0 +1,11 @@
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\bin\Debug\net9.0\ChatApp.Domain.deps.json
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\bin\Debug\net9.0\ChatApp.Domain.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\bin\Debug\net9.0\ChatApp.Domain.pdb
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ChatApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ChatApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ChatApp.Domain.AssemblyInfo.cs
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ChatApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ChatApp.Domain.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\refint\ChatApp.Domain.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ChatApp.Domain.pdb
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Domain\obj\Debug\net9.0\ref\ChatApp.Domain.dll

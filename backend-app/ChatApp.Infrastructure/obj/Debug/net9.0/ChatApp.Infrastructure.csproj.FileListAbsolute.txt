@@ -1,0 +1,17 @@
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\bin\Debug\net9.0\ChatApp.Infrastructure.deps.json
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\bin\Debug\net9.0\ChatApp.Infrastructure.runtimeconfig.json
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\bin\Debug\net9.0\ChatApp.Infrastructure.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\bin\Debug\net9.0\ChatApp.Infrastructure.pdb
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\bin\Debug\net9.0\ChatApp.Domain.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\bin\Debug\net9.0\ChatApp.Domain.pdb
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp..20B20D2C.Up2Date
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\refint\ChatApp.Infrastructure.dll
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.pdb
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ChatApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Goktug\Documents\konusarakOgreniyorum\backend-app\ChatApp.Infrastructure\obj\Debug\net9.0\ref\ChatApp.Infrastructure.dll
