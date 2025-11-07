@@ -292,8 +292,9 @@ npm run build
 - İlk çalıştırmada AI modelleri indirileceği için internet bağlantısı gereklidir
 - SQLite veritabanı dosyası (`chatapp.db`) proje içinde bulunmaktadır
 
-
+## Görseller 
 ![WhatsApp Image 2025-11-07 at 16 33 15](https://github.com/user-attachments/assets/ff958d84-acc8-4f90-b065-a14aca9256de)
 ![WhatsApp Image 2025-11-07 at 16 25 53](https://github.com/user-attachments/assets/e6e4baf3-028b-4567-9633-87ce76962735)
+
 
 
